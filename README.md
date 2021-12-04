@@ -1,2 +1,2 @@
 # PythonMachineLearning
-This is where I store my .ipynb for practice problems. 
+This is where I store my .ipynb for practice and kaggle.
